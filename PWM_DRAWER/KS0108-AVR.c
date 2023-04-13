@@ -1,8 +1,4 @@
-//-------------------------------------------------------------------------------------------------
-// Universal KS0108 driver library
-// Atmel AVR MCU low-level driver.
-// (c) Rados³aw Kwiecieñ, radek@dxp.pl
-//-------------------------------------------------------------------------------------------------
+
 #include <avr/io.h>
 #include <avr/pgmspace.h>
 

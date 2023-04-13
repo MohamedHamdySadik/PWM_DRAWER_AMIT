@@ -21,7 +21,6 @@ void GLCD_WriteString(char *);
 unsigned char GLCD_ReadByteFromROMMemory(char *);
 unsigned char GLCD_ReadData(void);
 void GLCD_SetPixel(unsigned char x, unsigned char y);
-void GLCD_Bitmap(char *, unsigned char, unsigned char, unsigned char, unsigned char);
 void GLCD_into_string(int data);
 
 
